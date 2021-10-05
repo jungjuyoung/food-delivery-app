@@ -3,7 +3,7 @@ const screens = {
   home: "Home",
   search: "Search",
   cart: "Cart",
-  favourite: "Favourite",
+  favorite: "Favorite",
   notification: "Notification",
   my_wallet: "My Wallet",
 };
@@ -23,7 +23,7 @@ const bottom_tabs = [
   },
   {
     id: 3,
-    label: screens.favourite,
+    label: screens.favorite,
   },
   {
     id: 4,
